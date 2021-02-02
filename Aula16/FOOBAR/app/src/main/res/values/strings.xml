@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExemploLayoutFoobar</string>
+    <string name="meuTexto"><u>Sign up</u></string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="foobar">FOOBAR</string>
+
+</resources>

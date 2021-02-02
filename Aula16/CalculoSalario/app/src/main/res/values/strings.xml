@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculoSalario</string>
+    <string name="digite_n_mero_de_horas_trabalhadas">Digite número de horas trabalhadas</string>
+    <string name="horas_trabalhadas">Horas Trabalhadas</string>
+    <string name="valor_por_hora">Valor por hora</string>
+    <string name="digite_valor_por_hora_trabalhada">Digite valor por hora trabalhada</string>
+    <string name="calcular">Calcular</string>
+</resources>

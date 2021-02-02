@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="reclyclerview">ReclyclerView</string>
+    <string name="_12_00">12:00</string>
+    <string name="txtnomefulano">txtNomeFulano</string>
+    <string name="mensagem">mensagem</string>
+    <string name="grid_recycler">Grid Recycler</string>
+    </resources>

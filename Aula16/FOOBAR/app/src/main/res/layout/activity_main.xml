@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/corfundo"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+       android:layout_marginTop="150dp"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/foobar"
+        android:textColor="@color/colorWhite"
+        android:textSize="32sp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:backgroundTint="@color/colorWhite"
+        android:fontFamily="sans-serif-light"
+        android:foregroundTint="#FFFFFF"
+        android:gravity="left"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/colorWhite"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/password"
+        android:inputType="numberPassword"
+        android:textColorHint="@color/colorWhite"
+        android:textColor="@color/colorWhite"
+        android:backgroundTint="@color/colorWhite"
+        android:textSize="18sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:padding="20dp"
+        android:backgroundTint="@color/corBotao"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/login"
+        android:textColor="@color/colorWhite"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-light"
+        android:gravity="bottom"
+        android:text="@string/meuTexto"
+        android:textColor="@color/colorWhite"
+        android:textSize="15sp" />
+    </LinearLayout>

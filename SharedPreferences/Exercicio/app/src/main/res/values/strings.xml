@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula41Exercicio_SharedPreferences</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="manter_me_conectado">Manter-me conectado</string>
+</resources>
